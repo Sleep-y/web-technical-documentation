@@ -14,7 +14,12 @@
 }
 
 .contentPanel {
-    justify-content: flex-end;
+    width: 60%;
+    height: auto;
+    position: relative;
+    right: -35%;
+    bottom: 150px;
+    justify-content: flex-start;
 }
 
 .link {
