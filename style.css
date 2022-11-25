@@ -2,20 +2,19 @@
     height: auto;
     width: auto;
     justify-content: center;
-    display: inline-flex;
+    display: block;
 }
 
 .leftPanel {
     width: 15%;
     height: auto;
     margin-right: 6px;
-    position: fixed;
     padding: 10px;
     justify-content: flex-end;
 }
 
 .contentPanel {
-    justify-content: center;
+    justify-content: flex-end;
 }
 
 .link {
